@@ -1,0 +1,14 @@
+# NAME: Proxy
+
+payload:
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,swccd.edu
+  - DOMAIN-SUFFIX,nnr.moe
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,cableav.tv
+  - DOMAIN-SUFFIX,fluidplayer.com
+  - DOMAIN-SUFFIX,swccd.edu
+  - DOMAIN-SUFFIX,mychandler.bet
+  - DOMAIN-SUFFIX,splunkcloud.com
+  - DOMAIN-SUFFIXprod-files-secure.s3.us-west-2.amazonaws.com
