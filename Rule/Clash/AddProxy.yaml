@@ -1,17 +1,35 @@
-# NAME: Proxy
-
 payload:
+  # ==========================================================
+  # General Proxy
+  # ==========================================================
+
   - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,swccd.edu
   - DOMAIN-SUFFIX,nnr.moe
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-SUFFIX,fluidplayer.com
-  - DOMAIN-SUFFIX,swccd.edu
   - DOMAIN-SUFFIX,mychandler.bet
   - DOMAIN-SUFFIX,splunkcloud.com
-  - DOMAIN-SUFFIXprod-files-secure.s3.us-west-2.amazonaws.com
+  - DOMAIN-SUFFIX,prod-files-secure.s3.us-west-2.amazonaws.com
+
+  - DOMAIN-KEYWORD,xsus
+  - DOMAIN-SUFFIX,redstarv.com
+  - DOMAIN-SUFFIX,hytron.io
+  - DOMAIN-SUFFIX,infopass.xyz
+
+  # ==========================================================
+  # Fixed Proxy IP
+  # ==========================================================
+
+  - IP-CIDR,141.11.125.132/32,no-resolve
+  - IP-CIDR,176.122.158.139/32,no-resolve
+  - IP-CIDR,67.230.164.36/32,no-resolve
+  - IP-CIDR,107.172.217.92/32,no-resolve
 
 
+  # ==========================================================
   # BandwagonHost / KiwiVM
+  # ==========================================================
+
   - DOMAIN-SUFFIX,64clouds.com
