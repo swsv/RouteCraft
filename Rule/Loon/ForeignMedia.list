@@ -1,0 +1,10 @@
+# RouteCraft - ForeignMedia
+# Policy: 💻 国外影视
+
+DOMAIN-SUFFIX,fr1.api.radio-browser.info
+DOMAIN-SUFFIX,all.api.radio-browser.info
+DOMAIN-SUFFIX,listen.radioking.com
+
+DOMAIN-SUFFIX,snaptik.net
+DOMAIN-SUFFIX,snapcdn.app
+DOMAIN,hsav.xyz

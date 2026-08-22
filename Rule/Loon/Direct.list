@@ -1,0 +1,11 @@
+# RouteCraft - Direct
+# Policy: DIRECT
+
+IP-CIDR,58.222.35.100/32,no-resolve
+
+DOMAIN-SUFFIX,short.weixin.qq.com
+
+DOMAIN,sf1-ttcdn-tos.pstatp.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN,imapi.snssdk.com
+DOMAIN,youku.cdn11-okzy.com
