@@ -11,3 +11,7 @@ payload:
   - DOMAIN-SUFFIX,mychandler.bet
   - DOMAIN-SUFFIX,splunkcloud.com
   - DOMAIN-SUFFIXprod-files-secure.s3.us-west-2.amazonaws.com
+
+
+  # BandwagonHost / KiwiVM
+  - DOMAIN-SUFFIX,64clouds.com
